@@ -1,0 +1,96 @@
+/* line 14, css/styles.scss */
+/* line 2, css/styles.css */
+.modal-header {
+  background-color: #512DA8;
+  color: floralwhite; }
+
+/* line 17, css/styles.scss */
+/* line 6, css/styles.css */
+.modal-header .close {
+  color: floralwhite; }
+
+/* line 21, css/styles.scss */
+/* line 10, css/styles.css */
+.modal-body {
+  background-color: #D1C4E9; }
+
+/* line 25, css/styles.scss */
+/* line 14, css/styles.css */
+.row-header {
+  margin: 0px auto;
+  padding: 0px 0px; }
+
+/* line 29, css/styles.scss */
+/* line 19, css/styles.css */
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px; }
+
+/* line 35, css/styles.scss */
+/* line 26, css/styles.css */
+.footer {
+  background-color: #D1C4E9;
+  margin: 0px auto;
+  padding: 20px 0px; }
+
+/* line 40, css/styles.scss */
+/* line 32, css/styles.css */
+.jumbotron {
+  margin: 0px auto;
+  padding: 70px 30px;
+  background: #9575CD;
+  color: floralwhite; }
+
+/* line 46, css/styles.scss */
+/* line 39, css/styles.css */
+address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f; }
+
+/* line 52, css/styles.scss */
+/* line 45, css/styles.css */
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0; }
+
+/* line 57, css/styles.scss */
+/* line 50, css/styles.css */
+.navbar-dark {
+  background-color: #512DA8; }
+
+/* line 61, css/styles.scss */
+/* line 54, css/styles.css */
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px; }
+
+/* line 68, css/styles.scss */
+/* line 61, css/styles.css */
+.carousel {
+  background: #512DA8; }
+
+/* line 71, css/styles.scss */
+/* line 64, css/styles.css */
+.carousel .carousel-item {
+  height: 300px; }
+
+/* line 73, css/styles.scss */
+/* line 67, css/styles.css */
+.carousel .carousel-item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 300px; }
+
+/* line 82, css/styles.scss */
+/* line 74, css/styles.css */
+#carouselButton {
+  right: 0px;
+  position: absolute;
+  bottom: 0px;
+  z-index: 1; }
